@@ -1,10 +1,61 @@
-- 👋 Hi, I’m @Siva-Angell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, I'm Subodh! (AKA Siva-Angell).
 
-<!---
-Bright-Skyz/Bright-Skyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+<a href="https://www.instagram.com/angell">
+  <img align="left" alt="Angell's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.com/users/776494689703559208">
+    <img align ="left" alt="Angell's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+  <a href="https://twitter.com/angell">
+    <img align ="left" alt="Angell's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+
+![](https://visitors-badge.glitch.me/badge?page_id=angell.angell)
+
+<br/>
+
+![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
+
+Hey, I'm Siva-Angell, a Web Developer 🚀, Back End Developer & Discord Bot Developer from Duhok. ~~And a Weeb.~~
+
+ **Information:**
+
+- 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
+- 🌱 I’m currently learning  **React.JS and C++.**
+- 👯 I’m looking to collaborate on **More Open Source Projects.**
+- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
+- 💬 Ask me about  Anything related to **Tech and Anime.**
+- 📫 Contact me at :  **No Contact.**
+- 😄 Pronouns :  **He/Him.**
+- ⚡ Fun fact : **JavaScript >>>> Python.**
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
+<code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
+<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
+<code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
+<code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
+
+
+**Stats:**  
+
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Angell&theme=tokyonight&hide=batchfile">
+
+
+
+
+
+
