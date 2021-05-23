@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Subodh! (AKA Siva-Angell).
+### Hi there 👋, I'm Siva Angell! (AKA Siva-Angell).
 
 <br/>
 <a href="https://www.instagram.com/angell">
