@@ -15,7 +15,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
+![Discord]()
 
 Hey, I'm Siva-Angell, a Web Developer 🚀, Back End Developer & Discord Bot Developer from Duhok. ~~And a Weeb.~~
 
